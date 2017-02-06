@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/myEnemyMove.cs">
+    <Files>
+      <File FileName="Assets/myEnemyMove.cs" Line="23" Column="17" />
+      <File FileName="Assets/myEneySpwan.cs" Line="1" Column="1" />
+      <File FileName="Assets/myPlayerMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/cliderManager.cs" Line="17" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
