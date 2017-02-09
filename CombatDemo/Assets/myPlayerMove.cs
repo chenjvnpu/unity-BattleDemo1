@@ -11,6 +11,7 @@ public class myPlayerMove : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        Debug.Log("世超嘚儿的呵");
 		float h = Input.GetAxis ("Horizontal");
 		float v = Input.GetAxis ("Vertical");
 		if(Mathf.Abs(h)>0.1f || Mathf.Abs(v)>0.1f){
