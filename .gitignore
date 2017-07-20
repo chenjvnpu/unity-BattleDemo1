@@ -6,6 +6,6 @@
 *.sln
 *.suo
 *.userprefs
-youyou/Library
-youyou/Temp
-youyou/Documents
+CombatDemo/Library
+CombatDemo/Temp
+CombatDemo/Documents
